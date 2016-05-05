@@ -1,0 +1,24 @@
+plugins {
+    id 'com.moowork.grunt' version '0.11'
+}
+
+node {
+    version = '5.4.0'
+    download = true
+}
+
+grunt {
+    workDir = file("${project.projectDir}")
+    colors = false
+    bufferOutput = true
+}
+
+project.tasks.installGrunt.dependsOn npmInstall
+project.tasks.grunt_install.dependsOn installGrunt
+
+project.tasks.grunt_build.dependsOn grunt_install
+project.tasks.grunt_check.dependsOn grunt_install
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '2.13'
+}

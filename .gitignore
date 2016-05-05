@@ -1,4 +1,8 @@
 /nbproject
 
+.gradle/
 .idea/
 *.iml
+
+bower_components/
+node_modules/
