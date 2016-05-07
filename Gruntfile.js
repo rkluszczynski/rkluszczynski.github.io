@@ -5,7 +5,7 @@ module.exports = function (grunt) {
         'bower-install-simple': {
             prod: {
                 options: {
-                    cwd: "config",
+                    cwd: "src",
                     production: true
                 }
             }
@@ -13,8 +13,8 @@ module.exports = function (grunt) {
         jshint: {
             all: [
                 'Gruntfile.js',
-                'src/web/javascript/**/*.js',
-                'src/web/spec/**/*.js'
+                'app/app.component.js',
+                'app/main.js'
             ],
             options: {
                 jshintrc: 'config/.jshintrc'
@@ -49,12 +49,10 @@ module.exports = function (grunt) {
             }
         },
         clean: {
-            'bootstrap-fonts': ['src/main/resources/public/fonts/'],
             'build': [
-                'src/main/resources/public/assets/oxides-grid-portal.css',
-                'src/main/resources/public/assets/oxides-grid-portal.js',
-                'src/main/resources/public/assets/oxides-grid-portal.min.js',
-                'src/main/resources/public/assets/oxides-grid-portal.min.js.map'
+                'app/rkluszczynski-github-io.js',
+                'app/rkluszczynski-github-io.min.js',
+                'app/rkluszczynski-github-io.min.js.map'
             ]
         }
     });
@@ -66,7 +64,7 @@ module.exports = function (grunt) {
         'jshint'
     ]);
     grunt.task.registerTask('build', [
-        'jshint',
+        // 'jshint',
         'clean',
         'concat:js',
         'uglify:js'
