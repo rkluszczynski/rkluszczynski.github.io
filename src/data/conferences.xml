@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document   : conferences.xml
+    Created on : 28 maj 2009, 12:58
+    Author     : Rafal Kluszczynski
+    Description:
+        Purpose of the document follows.
+-->
+<root xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <entry>
+        <title>UNICORE Summit 2014</title>
+        <shortname xlink:href="http://www.unicore.eu/summit/2013/" xlink:type="simple">US 2013</shortname>
+        <date>24/06/2014</date>
+    </entry>
+
+    <entry>
+        <title>5th All Hands Meeting of PL-Grid Plus Project</title>
+        <shortname xlink:href="http://www.plgrid.pl/en/projects/plus" xlink:type="simple">www.plgrid.pl</shortname>
+        <date>08-11/04/2014</date>
+    </entry>
+
+    <entry>
+        <title>4th All Hands Meeting of PL-Grid Plus Project</title>
+        <shortname xlink:href="http://www.plgrid.pl/en/projects/plus" xlink:type="simple">www.plgrid.pl</shortname>
+        <date>22-25/10/2013</date>
+    </entry>
+
+    <entry>
+        <title>UNICORE Summit 2013</title>
+        <shortname xlink:href="http://www.unicore.eu/summit/2013/" xlink:type="simple">US 2013</shortname>
+        <download xlink:href="http://www.unicore.eu/summit/2013/presentations/PL-Grid_Data_Storage.pdf" xlink:type="simple">Presentation</download>
+        <date>18/06/2013</date>
+    </entry>
+
+    <entry>
+        <title>3rd All Hands Meeting of PL-Grid Plus Project</title>
+        <shortname xlink:href="http://www.plgrid.pl/en/projects/plus" xlink:type="simple">www.plgrid.pl</shortname>
+        <date>21-24/05/2013</date>
+    </entry>
+
+    <entry>
+        <title>2nd All Hands Meeting of PL-Grid Plus Project</title>
+        <shortname xlink:href="http://www.plgrid.pl/en/projects/plus" xlink:type="simple">www.plgrid.pl</shortname>
+        <date>21-23/11/2012</date>
+    </entry>
+
+    <entry>
+        <title>IX Conference 'Computer Science in Education' (polish)</title>
+        <shortname xlink:href="http://edu.rsei.umk.pl/iwe2012/" xlink:type="simple">IwE 2012</shortname>
+        <date>03-04/07/2012</date>
+        <download xlink:href="materials/iwe" xlink:type="simple">JAVA workshop materials</download>
+    </entry>
+
+    <entry>
+        <title>1st All Hands Meeting of PL-Grid Plus Project</title>
+        <shortname xlink:href="http://www.plgrid.pl/en/projects/plus" xlink:type="simple">www.plgrid.pl</shortname>
+        <date>04-06/06/2012</date>
+    </entry>
+
+    <entry>
+        <title>UNICORE Summit 2012</title>
+        <shortname xlink:href="http://www.unicore.eu/summit/2012/" xlink:type="simple">US 2012</shortname>
+        <download xlink:href="http://unicore.eu/summit/2012/presentations/day2/KluszczynskiRafal-UNICOREDeploymentInPLGrid.pdf" xlink:type="simple">Presentation</download>
+        <date>30-31/05/2012</date>
+    </entry>
+
+
+    <entry>
+        <title>IV Technical Meeting of PL-Grid Project</title>
+        <shortname xlink:href="http://projekt.plgrid.pl" xlink:type="simple">projekt.plgrid.pl</shortname>
+        <date>13-16/09/2011</date>
+    </entry>
+
+    <entry>
+        <title>9th International Conference on Parallel Processing and Applied Mathematics</title>
+        <shortname xlink:href="http://www.ppam.pl/" xlink:type="simple">PPAM 2011</shortname>
+        <date>11-14/09/2011</date>
+    </entry>
+
+    <entry>
+        <title>UNICORE Summit 2011</title>
+        <shortname xlink:href="http://www.unicore.eu/summit/2011/" xlink:type="simple">US 2011</shortname>
+        <date>07-08/07/2011</date>
+    </entry>
+
+
+    <entry>
+        <title>VIII Conference 'Computer Science in Education' (polish)</title>
+        <shortname xlink:href="http://edu.rsei.umk.pl/iwe2011/" xlink:type="simple">IwE 2011</shortname>
+        <download xlink:href="materials/iwe2011.zip" xlink:type="simple">JAVA workshop materials</download>
+        <date>05-06/07/2011</date>
+    </entry>
+
+
+    <entry>
+        <title>III Technical Meeting of PL-Grid Project</title>
+        <shortname xlink:href="http://projekt.plgrid.pl" xlink:type="simple">projekt.plgrid.pl</shortname>
+        <date>16-18/03/2011</date>
+    </entry>
+
+
+    <entry>
+        <title>VII Conference 'Computer Science in Education' (polish)</title>
+        <shortname xlink:href="http://edu.rsei.umk.pl/iwe2010/" xlink:type="simple">IwE 2010</shortname>
+        <date>01-02/07/2010</date>
+    </entry>
+
+    <entry>
+        <title>XXIV Theoretical Computer Science Forum (polish)</title>
+        <shortname xlink:href="http://fit.tcs.uj.edu.pl/2010/" xlink:type="simple">FIT 2010</shortname>
+    </entry>
+
+    <entry>
+        <title>First International Conference on Bioinformatics</title>
+        <shortname xlink:href="http://www.bioinformatics.biostec.org/BIOINFORMATICS2010" xlink:type="simple">BIOINFORMATICS 2010</shortname>
+        <date>20-23/01/2010</date>
+    </entry>
+
+    <entry>
+        <title>Inaugural Conference of Regional Computer Science Group for Pupils (polish)</title>
+        <shortname xlink:href="http://www.rk.kujawsko-pomorskie.pl/konferencjainauguracyjna,7,l1.html" xlink:type="simple">RKI 2009</shortname>
+        <date>03/10/2009</date>
+    </entry>
+
+    <entry>
+        <title>Congress of Young IT Scientists - IV edition</title>
+        <shortname xlink:href="http://www.polish.smi.org.pl/index.php?option=com_content&amp;amp;view=category&amp;amp;id=43&amp;amp;Itemid=87" xlink:type="simple">SMI 2009</shortname>
+        <date>06-08/09/2009</date>
+    </entry>
+
+    <entry>
+        <title>VI Conference 'Computer Science in Education' (polish)</title>
+        <shortname xlink:href="http://edu.rsei.umk.pl/iwe2009/" xlink:type="simple">IwE 2009</shortname>
+        <download xlink:href="materials/iwe2009.zip" xlink:type="simple">JAVA workshop materials</download>
+        <date>24-25/06/2009</date>
+    </entry>
+
+    <entry>
+        <title>Rozwój innowacyjności województwa kujawsko-pomorskiego poprzez komercyjne zastosowanie badań naukowych (polish)</title>
+        <shortname xlink:href="http://doktoranci2009.kujawsko-pomorskie.pl" xlink:type="simple">ZPORR 2009</shortname>
+        <date>20/05/2009</date>
+    </entry>
+
+    <entry>
+        <title>International Conference on Informatics in Secondary Schools - Evolution and Perspectives</title>
+        <shortname xlink:href="http://www.rsei.uni.torun.pl/issep/" xlink:type="simple">ISSEP 2008</shortname>
+    </entry>
+
+    <entry>
+        <title>V Conference 'Computer Science in Education' (polish)</title>
+        <shortname xlink:href="http://www.rsei.umk.pl/iwe/" xlink:type="simple">IwE 2008</shortname>
+    </entry>
+
+    <entry>
+        <title>XXII Theoretical Computer Science Forum (polish)</title>
+        <shortname xlink:href="http://fit.tcs.uj.edu.pl/2008/" xlink:type="simple">FIT 2008</shortname>
+    </entry>
+
+    <entry>
+        <title>7th International Conference on Parallel Processing and Applied Mathematics</title>
+        <shortname xlink:href="http://www.ppam.pl/ppam2007/" xlink:type="simple">PPAM 2007</shortname>
+    </entry>
+
+    <entry>
+        <title>UNICORE Summit 2006</title>
+        <shortname xlink:href="http://www.summit.unicore.org/2006/" xlink:type="simple">US 2006</shortname>
+    </entry>
+
+    <entry>
+        <title>Bioinformatics Centre Opening Session</title>
+        <shortname xlink:href="http://bioinfo.icm.edu.pl/" xlink:type="simple">BCOS 2006</shortname>
+    </entry>
+
+    <entry>
+        <title>13th International Conference on Image Analysis and Processing</title>
+        <shortname xlink:href="http://www.diee.unica.it/iciap2005/" xlink:type="simple">ICIAP 2005</shortname>
+    </entry>
+</root>
+

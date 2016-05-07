@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document   : projects.xml
+    Created on : 28 maj 2009, 13:04
+    Author     : Rafal Kluszczynski
+    Description:
+        Purpose of the document follows.
+-->
+<root>
+    <entry>
+        <name>Contributing in PL-Grid Plus Project</name>
+        <link>http://www.plgrid.pl</link>
+        <description>Polish Roadmap toward Domain-Specific Infrastructure for Supporting Computational Science in European Research Area &amp;bull; 2012+</description>
+    </entry>
+    <entry>
+        <name>Contributing in PL-Grid Project</name>
+        <link>http://projekt.plgrid.pl</link>
+        <description>Polish Infrastructure for Supporting Computational Science in the European Research Space &amp;bull; 2010&amp;ndash;2012</description>
+    </entry>
+    <entry>
+        <name>My own spy story in English</name>
+        <link>http://docs.google.com/View?id=dfg75t2z_96d5g645hb</link>
+        <description>Some story I have written during my English classes &amp;bull; 2010</description>
+    </entry>
+	    <entry>
+        <name>Scholarship for Ph.D. Students - Step in the Future, 3rd Edition</name>
+        <link>http://krok3.rkluszczynski.info.pl</link>
+        <!--link>http://doktoranci3.kujawsko-pomorskie.pl</link-->
+        <description>Thanks to the Eropean Union &amp;bull; 2009&amp;ndash;2010</description>
+    </entry>
+    <entry>
+        <name>Contributing in Project of Computer Science On-line Courses for Pupils</name>
+        <link>http://www.rk.kujawsko-pomorskie.pl</link>
+        <description>On-line Programming and Algorithm Courses for Pupils interested in Computer Science &amp;bull; 2009&amp;ndash;2010</description>
+    </entry>
+    <entry>
+        <name>Scholarship for Ph.D. Students - ZPORR</name>
+        <link>pages/styp2009.php</link>
+        <!--link>http://doktoranci2009.kujawsko-pomorskie.pl</link-->
+        <description>Thanks to the Eropean Union &amp;bull; 2009</description>
+    </entry>
+    <entry>
+        <name>Developing bioinformatic GridBeans for UNICORE</name>
+        <link>http://unicore-life.sf.net</link>
+        <description>Bringing on the Grid and developing GridBeans for applications: BLAST, NAMD and ClustalW &amp;bull; 2007+</description>
+    </entry>
+    <entry>
+        <name>Engineer Degree Disseration</name>
+        <description>Optimalization of protein loop prediction - automatization of massive number of simulations &amp;bull; 2006</description>
+    </entry>
+    <entry>
+        <name>GridBeans for GPE</name>
+        <link>http://gpe4gtk.sourceforge.net</link>
+        <description>Developing GridBeans for BLAST and NAMD applications &amp;bull; 2006&amp;ndash;2007</description>
+    </entry>
+    <entry>
+        <name>M.D. Disseration</name>
+        <description>Image Segmentation using Polygonal Markov Fields &amp;bull; 2005</description>
+    </entry>
+    <entry>
+        <name>Filters Fourier Analysis</name>
+        <link type="file">materials/FourierAnalysis.pdf</link>
+    </entry>
+    <entry>
+        <name>Davis-Putnam Procedure</name>
+        <link type="file">materials/DavisPutnam.pdf</link>
+    </entry>
+    <entry>
+        <name>Mendel Laws (ancient)</name>
+        <link type="file">materials/MendelLaws.pdf</link>
+        <description>
+            Subject I have prepared in High School at biology classes.
+            Some interesting things about green and yellow beans ;)
+        </description>
+    </entry>
+</root>

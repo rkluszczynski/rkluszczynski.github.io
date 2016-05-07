@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document   : publications.xml
+    Created on : 28 maj 2009, 13:03
+    Author     : Rafal Kluszczynski
+    Description:
+        Purpose of the document follows.
+-->
+<root>
+<!--
+    <entry>
+        <title>Using PL-Grid Infrastructure to Store and Process DNA Sequence Data from GS FLX Instrument</title>
+        <authors>M.Borcz, R.Kluszczyński, K.Skonieczna, T.Grzybowski, P.Bała</authors>
+        <year>2012</year>
+        <link>??</link>
+    </entry>
+-->	
+    <entry>
+        <title>Integrating Slurm Batch System with European and Polish Grid Infrastructures</title>
+        <authors>D.Bartkiewicz, K.Benedyczak, R.Kluszczyński, M.Stolarek, T.Rękawek</authors>
+        <year>2014</year>
+        <link>http://dx.doi.org/10.1007/978-3-319-10894-0_8</link>
+    </entry>
+
+    <entry>
+        <title>Reservations for Compute Resources in Federated e-Infrastructure</title>
+        <authors>M.Radecki, T.Szymocha, T.Piontek, B.Bosak, M.Mamoński, P.Wolniewicz, K.Benedyczak, R.Kluszczyński</authors>
+        <year>2014</year>
+        <link>http://dx.doi.org/10.1007/978-3-319-10894-0_6</link>
+    </entry>
+
+    <entry>
+        <title>Development of Domain-Specific Solutions Within the Polish Infrastructure for Advanced Scientific Research</title>
+        <authors>J.Kitowski, K.Wiatr, P.Bała, M.Borcz, A.Czyżewski, R.Kluszczyński, J.Kotus, P.Kustra, N.Meyer, A.Milenin, Z.Mosurska, R.Pająk, M.Sterzel, D.Stokłosa, T.Szepieniec</authors>
+        <year>2014</year>
+        <link>http://dx.doi.org/10.1007/978-3-642-55224-3_23</link>
+    </entry>
+
+    <entry>
+        <title>On-line contests hosting service as a tool to teach computer science students programming</title>
+        <authors>M.Nowicki, Ł.Mikulski, M.Piątkowski, R.Kluszczyński, P.Bała</authors>
+        <year>2013</year>
+        <note>ISBN: 978-83-231-3093-2</note>
+    </entry>
+
+    <entry>
+        <title>Processing the Biomedical Data on the Grid Using the UNICORE Workflow System</title>
+        <authors>M.Borcz, R.Kluszczyński, K.Skonieczna, T.Grzybowski, P.Bała</authors>
+        <year>2013</year>
+        <link>http://dx.doi.org/10.1007/978-3-642-36949-0_29</link>
+    </entry>
+
+    <entry>
+        <title>UNICORE Deployment in PL-Grid. Lesson learned</title>
+        <authors>K.Benedyczak, M.Stolarek, R.Rowicki, R.Kluszczyński, M.Borcz, G.Marczak, M.Filocha, P.Bała</authors>
+        <year>2012</year>
+        <link>http://hdl.handle.net/2128/4705</link>
+    </entry>
+	
+    <entry>
+        <title>Uniform Distributed Storage View for the UNICORE Rich Client</title>
+        <authors>A.Dembowski, R.Kluszczyński, P.Bała</authors>
+        <year>2012</year>
+        <link>http://hdl.handle.net/2128/4705</link>
+    </entry>
+
+    <entry>
+        <title>Parallel Version of Image Segmentation Algorithm Using Polygonal Markov Fields</title>
+        <authors>R.Kluszczyński, P.Bała</authors>
+        <year>2012</year>
+        <link>http://dx.doi.org/10.1007/978-3-642-31464-3_28</link>
+		<abstract>
+		In this paper we present an application of parallel simulated annealing method to a segmentation algorithm using polygonal Markov fields. After a brief presentation of the algorithm and a general scheme of parallelization methods using simulated annealing technique, there is presented parallel approach to the segmentation algorithm with different synchronization scenarios.
+
+		Authors also present results of the parallelization of the segmentation algorithm. There is discussed comparison between simulations with different synchronization scenarios applied to the multiple-trial approach of simulated annealing technique. Some simulations based on the number of threads are presented as well.
+		</abstract>
+    </entry>
+	
+    <entry>
+        <title>Seamless Access to the PL-Grid e-Infrastructure Using UNICORE Middleware</title>
+        <authors>K.Benedyczak, M.Stolarek, R.Rowicki, R.Kluszczyński, M.Borcz, G.Marczak, M.Filocha, P.Bała</authors>
+        <year>2012</year>
+        <link>http://dx.doi.org/10.1007/978-3-642-28267-6_5</link>
+		<abstract>
+		This chapter provides a brief overview of the UNICORE grid middleware and its utilization in the large Distributed Computing Infrastructure. UNICORE framework, in its recent version implements key grid standards and specifications. The system architecture and capabilities, such as security, workflow and data management are described. The installation of the UNICORE environment in the PL-Grid is presented. Special attention is given to the integration of the UNICORE middleware with the PL-Grid authentication and authorization framework which allows for uniform infrastructure and user management across different middlewares. The solutions for monitoring and accounting of the UNICORE infrastructure is presented.
+		</abstract>
+    </entry>
+
+    <entry>
+        <title>Training in the PL-Grid as Key Component to Attract Users to Grid e-Infrastructures</title>
+        <authors>M.Borcz, K.Benedyczak, A.Padee, R.Kluszczyński, G.Marczak, M.Zdybek, M.Pawlik, M.Filocha, P.Bała</authors>
+        <year>2012</year>
+        <link>http://dx.doi.org/10.1007/978-3-642-28267-6_25</link>
+		<abstract>
+		This chapter provides an overview of the training facilities in the PL-Grid project. It is well known that procedures necessary to obtain certificates and then install software or get access to the User Interfaces are complicated and due to security reasons cannot be simplified. For these purposes we have crated extended training facilities which allow to get easy access to the Grid. We have installed dedicated infrastructure including the computational resources, certificate authority, user portal and an on-line training system. The efficiency of the training infrastructure, materials and procedures has been proved in the numerous training sessions. 		
+		</abstract>
+    </entry>
+
+    <entry>
+        <title>Segmentacja obrazow cyfrowych wykorzystujaca model wielokatnych pol Markowa w srodowisku obliczen wspolbieznych (in polish)</title>
+        <authors>R.Kluszczyński</authors>
+        <year>2011</year>
+        <note>ISBN 978-83-62159-00-9,&amp;nbsp; (e-ISBN 978-83-63159-01-6)</note>
+    </entry>
+
+    <entry>
+        <title>Running local jobs in the UNICORE workflows</title>
+        <authors>M.Borcz, R.Kluszczyński, P.Bała</authors>
+        <year>2011</year>
+        <link>http://hdl.handle.net/2128/4518</link>
+    </entry>
+
+    <entry>
+        <title>Statistical Analysis of Biomolecular Data Using UNICORE Workflows</title>
+        <authors>M.Borcz, R.Kluszczyński, P.Bała</authors>
+        <year>2010</year>
+        <note>ISBN 978-989-674-019-1</note>
+    </entry>
+
+    <entry>
+        <title>Supporting Clustal Application on the UNICORE Grid</title>
+        <authors>R.Kluszczyński, P.Bała</authors>
+        <year>2009</year>
+        <note>Polish Journal fo Environmental Studies, Vol. 18, No. 3B</note>
+    </entry>
+
+    <entry>
+        <title>Contests Hosting Service as a tool to teach programming</title>
+        <authors>R.Kluszczyński, Ł.Mikulski, M.Nowicki, P.Bała</authors>
+        <year>2009</year>
+        <link>http://dx.doi.org/10.2478/v10065-009-0017-9</link>
+		<abstract>
+		Computer science would not exist without the concept of algorithm. Therefore design of algorithmsplays an important role in education while implementation is usually considered to
+		be straightforward. Increasing variety of programming languages, wealth of possible constructions,
+		programming environments and tools makes programming difficult for the beginners.
+			Apart from the idea of problem solution, it is important to teach programming skills. Size
+		of classes of 10-20 pupils and a limited number of lessons and their short time are the major
+		problem. The teacher has to check solution of every pupil, compile it and run tests. This is
+		definitely a time-consuming process which makes teaching difficult. In this paper the authors
+		present the use of problem solutions validation systems during classes. With the help of such
+		a system called ZawodyWEB, the authors teach algorithms and programming for the secondary
+		school students.		
+		</abstract>
+    </entry>
+
+    <entry>
+        <title>Internetowe narzędzia do sprawdzania zadań programistycznych i ich zastosowania (polish)</title>
+        <authors>M.Nowicki, R.Kluszczyński, P.Bała</authors>
+        <year>2008</year>
+        <note>ISBN 978-83-60425-30-5</note>
+    </entry>
+
+    <entry>
+        <title>Algorytm generowania realizacji wielokątnych pól Markowa (abstract in polish)</title>
+        <authors>R.Kluszczyński</authors>
+        <year>2008</year>
+        <link type="abstract"><![CDATA[http://fit.tcs.uj.edu.pl/2008/abstracts.php?stamp=1204378802&amp;name=KluszczynskiRafal-Streszczenie-FIT.pdf]]></link>
+    </entry>
+
+    <entry>
+        <title>Supporting NAMD Application on the Grid using GPE</title>
+        <authors>R.Kluszczyński, P.Bała</authors>
+        <year>2008</year>
+        <link>http://dx.doi.org/10.1007/978-3-540-68111-3_80</link>
+    </entry>
+
+    <entry>
+        <title>Image segmentation by polygonal Markov fields</title>
+        <authors>R.Kluszczyński, M.N.M.van Lieshout, T.Schreiber</authors>
+        <year>2007</year>
+        <link>http://dx.doi.org/10.1007/s10463-006-0062-8</link>
+    </entry>
+
+    <entry>
+        <title>BLAST Application on the GPE/UnicoreGS Grid</title>
+        <authors>M.Borcz, R.Kluszczyński, P.Bała</authors>
+        <year>2007</year>
+        <link>http://dx.doi.org/10.1007/978-3-540-72337-0_24</link>
+        <abstract>
+		Sequence analysis is one of the most fundamental tasks in molecular
+		biology. Because of the increasing number of sequences we still
+		need more computing power. One of the solutions are grid
+		environments, which make use of computing centers. In this paper
+		we present plug-in which enables the use of BLAST software for
+		sequence analysis within Grid environments such as UNICORE (Uniform
+		Interface to Computing Resources) and GPE (Grid Programming
+		Environment).
+        </abstract>
+    </entry>
+
+    <entry>
+        <title>GridBeans: Support e-Science and Grid Applications</title>
+        <authors>R.Ratering, A.Lukichev, M.Riedel, D.Mallmann, A.Vanni, C.Cacciari, S.Lanzarini, K.Benedyczak, M.Borcz, R.Kluszczyński, P.Bała, G.Ohme</authors>
+        <year>2006</year>
+        <link>http://doi.ieeecomputersociety.org/10.1109/E-SCIENCE.2006.81</link>
+        <abstract>
+		Large-scale scientific research often relies on the
+		collaborative use of Grid and e-Science infrastructures that
+		provide computational or storage related resources. One of the
+		ideas of these modern infrastructures is to facilitate the
+		routine interaction of scientists and their workflows with
+		advanced problem solving tools and computational resources.
+		While many production Grid projects and e-Science
+		infrastructures have begun to offer services for the usage of
+		resources to end-users during the past several years, the
+		corresponding emerging standards defined by GGF and OASIS still
+		appear to be in flux. In this paper, we present the GridBean
+		technology that bridges the gap between the constantly changing
+		basic Grid or e-Science infrastructures and the need of stable
+		application development environments for the Grid users.
+        </abstract>
+    </entry>
+
+    <entry>
+        <title>An Algorithm for Binary Image Segmentation using Polygonal Markov Fields</title>
+        <authors>R.Kluszczynski, M.N.M.van Lieshout, T.Schreiber</authors>
+        <year>2005</year>
+        <link>http://dx.doi.org/10.1007/11553595_47</link>
+        <abstract>
+		We present a novel algorithm for binary image segmentation based
+		on polygonal Markov fields. We recall and adapt the dynamic
+		representation of these fields, and formulate image segmentation
+		as a statistical estimation problem for a Gibbsian modification of
+		an underlying polygonal Markov field. We discuss briefly the choice
+		of Hamiltonian, and develop Monte Carlo techniques for finding
+		the optimal partition of the image. The approach is illustrated
+		by a range of examples.
+        </abstract>
+    </entry>
+</root>

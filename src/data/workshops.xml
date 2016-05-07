@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document   : workshops.xml
+    Created on : 28 maj 2009, 13:01
+    Author     : Rafal Kluszczynski
+    Description:
+        Purpose of the document follows.
+-->
+<root>
+    <entry>
+        <name>FitSM Foundation Training</name>
+        <link>http://fedsm.eu/fitsm-training</link>
+        <short>FitSM 2014</short>
+        <date>07-08/05/2014</date>
+    </entry>
+    <entry>
+        <name>Matematyczne metody modelowania i analizy systemów współbieżnych (polish)</name>
+        <link>http://www.mat.umk.pl/widget/web/zlmitw/grant/-/56_INSTANCE_D5rC</link>
+        <short>MASYW 2010</short>
+        <date>19-23/07/2010</date>
+    </entry>
+    <entry>
+        <name>Locally adaptive filters in signal and image processing</name>
+        <link>http://www.eurandom.nl/events/workshops/2008/adaptive-filters/LocallyAdaptiveFiltersmain.htm</link>
+        <short>SIP 2008</short>
+    </entry>
+    <entry>
+        <name>CELL Programming Workshop</name>
+        <link>http://www.icm.edu.pl/kdm/Biuletyn_nr_24#Wydarzenia:_Cell_Programming_Workshop</link>
+        <short>CELL 2007</short>
+    </entry>
+    <entry>
+        <name>Przedsiebiorczosc i wiedza droga do sukcesu</name>
+        <link><![CDATA[http://www.nzs.umk.pl/index.php?option=com_content&amp;task=view&amp;id=86&amp;Itemid=37]]></link>
+        <short>PiWDdS 2007</short>
+    </entry>
+    <entry>
+        <name>Image Analysis and Inverse Problems</name>
+        <link>http://www.eurandom.nl/events/workshops/2006/ImageAnalysis/ImageAnalysis_main.htm</link>
+        <short>IAIP 2006</short>
+    </entry>
+    <entry>
+        <name>Advanced Course on Grid Technologies</name>
+        <link><![CDATA[http://www.polgrid.pl/modules.php?name=Courses&amp;page=4szkolenia]]></link>
+        <short>EGEE 2006</short>
+    </entry>
+    <entry>
+        <name>Grand Challenges in Informatics</name>
+        <link>http://www.jaist.ac.jp/~bjorner/ae-is-budapest</link>
+        <short>GCiI 2006</short>
+    </entry>
+    <entry>
+        <name>Poznan Summer School of Bioinformatics</name>
+        <link>http://pssb.amu.edu.pl/2006</link>
+        <short>PSSB 2006</short>
+    </entry>
+    <entry>
+        <name>Stochastic models in biological sciences</name>
+        <link>http://www.mimuw.edu.pl/~miekisz/workshop.html</link>
+        <short>SMBS 2006</short>
+    </entry>
+</root>

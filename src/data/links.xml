@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document   : links.xml
+    Created on : 30 maj 2009, 12:51
+    Author     : Rafal Kluszczynski
+    Description:
+        Purpose of the document follows.
+-->
+<root>
+    <entry>
+        <name>Polish Information Processing Society</name>
+        <link>http://www.pti.org.pl</link>
+        <description>Organization I am in.</description>
+    </entry>
+    <entry>
+        <name>Polish Mensa</name>
+        <link>http://www.mensa.org.pl</link>
+        <description>Society I am in.</description>
+    </entry>
+    <entry>
+        <name>Marcelina's Website</name>
+        <link>http://www.borcz.info.pl</link>
+        <description>I recommend to see :-)</description>
+    </entry>
+</root>
