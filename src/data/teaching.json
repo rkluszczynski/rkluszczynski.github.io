@@ -1,0 +1,110 @@
+{
+  "teaching": [
+    {
+      "name": "Grid Computing Systems",
+      "year": "2012/2013 (winter semester)",
+      "description": "5th Year Computer Science Course (30h)"
+    },
+    {
+      "name": "Preparing for Competetive Programming",
+      "year": "2012/2013 (winter semester)",
+      "description": "Computer Science Course - invited lectures"
+    },
+    {
+      "name": "Grid Computing Systems",
+      "year": "2011/2012 (winter semester)",
+      "description": "5th Year Computer Science Course (30h)"
+    },
+    {
+      "name": "Preparing for Competetive Programming",
+      "year": "2011/2012 (winter semester)",
+      "description": "1st Year Computer Science Course"
+    },
+    {
+      "name": "Preparing for Competetive Programming",
+      "year": "2010/2011",
+      "description": "1st Year Computer Science Course"
+    },
+    {
+      "name": "Programming in ANSI C",
+      "year": "2009/2010 (summer semester)",
+      "description": "1st Year Computer Science Course (30h)"
+    },
+    {
+      "name": "Contests Team Programming Seminar",
+      "year": "2009/2010",
+      "description": "Facultative Computer Science Course (30h)"
+    },
+    {
+      "name": "Grid Computing Systems",
+      "year": "2009/2010 (winter semester)",
+      "description": "5th Year Computer Science Course (30h)"
+    },
+    {
+      "name": "Object Oriented Programming (Java, XML)",
+      "year": "2009/2010 (winter semester)",
+      "description": "3rd Year Mathematic Course (30h)"
+    },
+    {
+      "name": "Contests Programming Seminar",
+      "year": "2008/2009 (summer semester)",
+      "description": "Facultative Computer Science Course (30h)"
+    },
+    {
+      "name": "Project Team Programming (team 06)",
+      "year": "2008/2009",
+      "description": "3rd Year Computer Science Course &amp;bull; PROJECT: Educational 3D Game for Children titled 'Olus'",
+      "link": "http://www.akademickibiznes.pl/index.php?strona=22&amp;wiecej=39"
+    },
+    {
+      "name": "Grid Computing Systems",
+      "year": "2008/2009 (winter semester)",
+      "description": "5th Year Computer Science Course (30h)"
+    },
+    {
+      "name": "Introduction to Bayesian Networks",
+      "year": "2007/2008 (summer semester)",
+      "description": "Facultative Computer Science Course (30h)"
+    },
+    {
+      "name": "Object Oriented Programming (Java, XML)",
+      "year": "2007/2008 (winter semester)",
+      "description": "3rd Year Mathematic Course (30h)"
+    },
+    {
+      "name": "Grid Computing Systems",
+      "year": "2007/2008 (winter semester)",
+      "description": "5th Year Computer Science Course (30h)"
+    },
+    {
+      "name": "Parallel and Distributed Programming",
+      "year": "2007/2008 (winter semester)",
+      "description": "3rd Year Computer Science Course (30h)"
+    },
+    {
+      "name": "Object Oriented Programming (Java)",
+      "year": "2006/2007 (summer semester)",
+      "description": "2nd Year Computer Science Course (45h)"
+    },
+    {
+      "name": "Object Oriented Programming (Java, XML)",
+      "year": "2006/2007 (winter semester)",
+      "description": "3rd Year Mathematic Course (30h)"
+    },
+    {
+      "name": "Parallel and Distributed Programming",
+      "year": "2006/2007 (winter semester)",
+      "description": "3rd Year Computer Science Course (30h)"
+    },
+    {
+      "name": "Project Team Programming (team 23)",
+      "year": "2005/2006",
+      "description": "4th Year Computer Science Course &amp;bull; PROJECT: Contests Hosting Service within uPortal"
+    },
+    {
+      "name": "Parallel and Distributed Programming",
+      "year": "2005/2006 (winter semester)",
+      "description": "3rd Year Computer Science Course (30h)"
+    }
+  ]
+}
