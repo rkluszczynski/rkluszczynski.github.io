@@ -20,6 +20,34 @@ module.exports = function (grunt) {
                 jshintrc: 'config/.jshintrc'
             }
         },
+        concat: {
+            js: {
+                src: [
+                    'node_modules/es6-shim/es6-shim.min.js',
+                    'node_modules/zone.js/dist/zone.js',
+                    'node_modules/reflect-metadata/Reflect.js',
+                    'node_modules/rxjs/bundles/Rx.umd.js',
+                    'node_modules/@angular/core/core.umd.js',
+                    'node_modules/@angular/common/common.umd.js',
+                    'node_modules/@angular/compiler/compiler.umd.js',
+                    'node_modules/@angular/platform-browser/platform-browser.umd.js',
+                    'node_modules/@angular/platform-browser-dynamic/platform-browser-dynamic.umd.js',
+                ],
+                dest: 'app/rkluszczynski-github-io.js'
+            }
+        },
+        uglify: {
+            js: {
+                files: {
+                    'app/rkluszczynski-github-io.min.js': [
+                        'app/rkluszczynski-github-io.js'
+                    ]
+                },
+                options: {
+                    sourceMap: true
+                }
+            }
+        },
         clean: {
             'bootstrap-fonts': ['src/main/resources/public/fonts/'],
             'build': [
@@ -39,7 +67,9 @@ module.exports = function (grunt) {
     ]);
     grunt.task.registerTask('build', [
         'jshint',
-        'clean'
+        'clean',
+        'concat:js',
+        'uglify:js'
     ]);
     grunt.registerTask('default', []);
 };
