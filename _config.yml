@@ -1,0 +1,18 @@
+# Setup
+title:        rkluszczynski
+tagline:      about me
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       rkluszczynski
+  url:        https://github.com/rkluszczynski
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+
+#Others
+markdown: kramdown
