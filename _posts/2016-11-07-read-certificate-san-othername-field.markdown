@@ -8,3 +8,7 @@ categories: main
 ## Read X.509 certificate SAN's othername field using OpenSSL
 
 TODO
+
+http://serverfault.com/questions/587662/openssl-always-shows-unsupported-for-all-subjectaltname-othername-utf8-value
+
+https://www.mail-archive.com/openssl-users@openssl.org/msg30828.html
