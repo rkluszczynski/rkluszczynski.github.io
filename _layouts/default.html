@@ -4,12 +4,25 @@
 {% include head.html %}
 
 <body>
+<div>
+    <script>
+      (function() {
+        var cx = '000543971488797244830:3qhies9cd3q';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+      })();
+    </script>
+    <gcse:searchbox></gcse:searchbox>
+</div>
 
 <section class="main-content">
 
     {{ content }}
 
 </section>
-
 </body>
 </html>
