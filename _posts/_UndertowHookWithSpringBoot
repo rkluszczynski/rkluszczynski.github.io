@@ -1,0 +1,55 @@
+---
+layout: default
+title:  "Undertow Hook with Spring Boot"
+date:   2017-01-26 10:00:00
+categories: main
+---
+
+## Undertow Hook with Spring Boot Undertow Starter
+
+TODO
+
+~~~ java
+    @Bean
+    public UndertowEmbeddedServletContainerFactory embeddedServletContainerFactory() {
+        UndertowEmbeddedServletContainerFactory undertowEmbeddedServletContainerFactory = new UndertowEmbeddedServletContainerFactory();
+
+        undertowEmbeddedServletContainerFactory.addDeploymentInfoCustomizers(deploymentInfo -> {
+            deploymentInfo.addOuterHandlerChainWrapper(new CustomHandler.Wrapper());
+        });
+        return undertowEmbeddedServletContainerFactory;
+    }
+
+    static class CustomHandler implements HttpHandler {
+        private HttpHandler next;
+
+        @Override
+        public void handleRequest(HttpServerExchange exchange) throws Exception {
+            if (exchange.getRelativePath().startsWith("/service")) {
+                System.out.println("\n\n= XXX =\n\n");
+                handleServiceRequest(exchange);
+            } else {
+                System.out.println("\n\n= ZZZ =\n\n");
+                next.handleRequest(exchange);
+            }
+        }
+
+        private void handleServiceRequest(HttpServerExchange exchange) {
+            exchange.getResponseSender().send("OK");
+        }
+
+        public HttpHandler setNext(HttpHandler next) {
+            this.next = next;
+            return this;
+        }
+
+        static class Wrapper implements HandlerWrapper {
+            private final CustomHandler customHandler = new CustomHandler();
+
+            @Override
+            public HttpHandler wrap(HttpHandler handler) {
+                return customHandler.setNext(handler);
+            }
+        }
+    }
+~~~
